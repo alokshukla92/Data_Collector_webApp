@@ -1,0 +1,49 @@
+
+.container
+{
+    padding-top: 10%;
+    text-align: center;
+    margin: 0 auto;
+    width : 100%;
+    height: 100%;
+    background-color: #05286B;
+    overflow: hidden;
+    color: white;
+    font-family: 'Poppins';
+    font-size: 25px;
+}
+
+html, body
+{
+    height:100%;
+    margin: 0;
+}
+.container form
+{
+    margin: 30px;
+}
+
+.container input
+{
+    width: 350px;
+    height: 35px;
+    padding: 10px;
+    margin: 10px;
+    transition : all 0.2s ease-in-out;
+    border-radius: 35px;
+}
+
+.container button
+{
+    width:80px;
+    height: 30px;
+    background-color: #5CDB95;
+    margin: 4px;
+    border-radius: 35px;
+}
+
+.message
+{
+    color: #ff1a1a;
+}
+
